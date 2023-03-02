@@ -1,5 +1,5 @@
 # GenerateSinSignal
 
-it provides combining different sinus signals and generating repeatedly
+it provides combining different signals and generating repeatedly
 
 ![](/Readme.png)!
