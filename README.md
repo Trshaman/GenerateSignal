@@ -1,5 +1,5 @@
 # Generate Signal
 
-it provides combining different signals and generating repeatedly
+It provides combining different signals and generating repeatedly
 
 ![](/Readme.png)!
